@@ -18,7 +18,7 @@ const mongodb = require('mongodb');
 
 // Mongoose Declarations
 const mongoose = require('mongoose');
-mongoose.connect("mongodb+srv://OmNC501:Tarkaniti@cluster0.w0b9oii.mongodb.net/todolistDB");
+mongoose.connect("mongodb+srv://OmNC501:webproject@cluster0.w0b9oii.mongodb.net/todolistDB");
 
 // Lodash Declarations
 const _ = require('lodash');
